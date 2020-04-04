@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loginbutton" type="id" />
+    <item name="facebook" type="id" />
+    <item name="facebookBtn" type="id" />
+</resources>
